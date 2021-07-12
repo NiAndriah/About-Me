@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.section {
+  align: center;
+  font-size:8em; 
+  color:#C4C3D0; 
+  margintop:0.5em;  
+  font-family: initial;
+  padding: 20px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
+
+.marge {
+  padding-right: 5em;
+}
+
+hr {
+  border:0.5px solid; 
+  width:3.5em; 
+  margin-right:10em;
+}
+
+.copyright {
+  text-align: center;
+  background-color:#3f3f3f;  
+  padding: 0.5em;
+  margin-top: 15.4em;
+  color: white;
+}
